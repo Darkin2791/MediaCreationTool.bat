@@ -1,0 +1,9 @@
+{
+  "name": "Стандартный бизнес",
+  "sections": [
+    {"type": "Header", "title": "Коммерческое предложение"},
+    {"type": "PriceHighlight", "title": "Итоговая стоимость"},
+    {"type": "Terms", "title": "Условия"},
+    {"type": "FinalAdvantages", "title": "Почему мы"}
+  ]
+}

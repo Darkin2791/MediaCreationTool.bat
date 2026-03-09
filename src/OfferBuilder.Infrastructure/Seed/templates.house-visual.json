@@ -1,0 +1,10 @@
+{
+  "name": "Визуальное КП по строительству дома",
+  "sections": [
+    {"type": "Header", "title": "Обложка"},
+    {"type": "Plan", "title": "Планировка"},
+    {"type": "Image", "title": "Внешний вид"},
+    {"type": "Construction", "title": "Технические характеристики"},
+    {"type": "EngineeringSystems", "title": "Инженерные системы"}
+  ]
+}
